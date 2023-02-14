@@ -1,4 +1,4 @@
-#👋 Hi I am Shamanth:
+# 👋 Hi I am Shamanth:
 🔭 I’m currently working on the M.E.R.N stack and Python<br>👯 I’m looking to collaborate on Projects related to Full stack development<br>🌱 I’m currently learning about DevOps and Web3<br>⚡ Fun fact: I am an amateur jazz enthusiast 
 
 
