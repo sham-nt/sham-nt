@@ -9,8 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sham-nt&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sham-nt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ## Badges:
-[![An image of @sham_ny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sham_ny)](https://holopin.io/@sham_ny) -->
-
+[![An image of @sham_ny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sham_ny)](https://holopin.io/@sham_ny)
 [![](https://visitcount.itsvg.in/api?id=sham-nt&icon=0&color=7)](https://visitcount.itsvg.in)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ShamanthKashya3) 
+
